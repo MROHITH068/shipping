@@ -28,12 +28,5 @@ pipeline
              echo 'Publish a Artifact'
             }
         }
-
-
-        stage('Publish a Artifact'){
-            steps{
-             echo 'Publish a Artifact'
-            }
-        }
     }
 }
